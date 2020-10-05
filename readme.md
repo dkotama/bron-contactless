@@ -1,6 +1,6 @@
 #### Contactless Menu for Website
 Bron Cafe Menu
-![Qr Code](qr-code.png =100x100)
+![Qr Code](qr-code.png)
 
 
 ### How-to
